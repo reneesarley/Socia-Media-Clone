@@ -2,6 +2,7 @@ import React from 'react';
 import Nav from './Nav';
 import Profile from './Profile';
 import Newsfeed from './Newsfeed';
+import TweetList from './TweetList';
 
 function App(){
   return (

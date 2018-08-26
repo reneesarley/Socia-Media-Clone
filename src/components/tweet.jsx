@@ -1,9 +1,19 @@
 import React from 'react';
+import PropTypes from 'prop-types'
 
-function Tweet(){
+function Tweet(props){
   return(
-    <p>test tweet</p>
+    <div>
+      <h5>{props.user}</h5>
+      <p>{props.tweetText}</p>
+      <hr/>
+    </div>
   );
 }
+
+Tweet.PropTypes = {
+  user: PropTypes.string.isRequired,
+  tweetText: PropTypes.string.isRequired
+};
 
 export default Tweet;
