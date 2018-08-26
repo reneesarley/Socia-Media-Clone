@@ -1,7 +1,7 @@
 import React from 'react';
 import Nav from './Nav';
-import Profile from './Profile'
-import Newsfeed from './Newsfeed'
+import Profile from './Profile';
+import Newsfeed from './Newsfeed';
 
 function App(){
   return (

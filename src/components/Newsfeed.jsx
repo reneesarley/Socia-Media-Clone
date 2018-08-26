@@ -1,8 +1,11 @@
 import React from 'react';
+import Tweet from './tweet';
 
 function Newsfeed(){
   return(
-    <p>testing</p>
+    <div className='col-sm-9'>
+      <Tweet/>
+    </div>
   );
 }
 
