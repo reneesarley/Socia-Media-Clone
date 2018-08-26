@@ -4,9 +4,11 @@ import Profile from './Profile'
 
 function App(){
   return (
-    <div>
+    <div className='container'>
       <Nav/>
-      <Profile/>
+      <div className='row'>
+        <Profile/>
+      </div>
     </div>
   );
 }
