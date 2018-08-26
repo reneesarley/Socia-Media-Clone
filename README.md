@@ -1,28 +1,29 @@
-# _Application Name_
+# _Social Media Clone_
 
-#### _Tagline , X/XX/18_
+#### _Application to practice placing and styling React Components , 8/26/18_
 
 #### By _**Renee Sarley**_
 
 ## Description
 
-_Line one_<br>
-_LIne Twp_<br>
-_Line three_
+_This application should mimic the basic structure of a social media site._<br>
+_There will be no functionality, just non-functioning components to represent different aspects of a social media site_<br>
+_There will be minimal styling_
 
 
 ## Setup/Installation Requirements
 
 * _Download project from the GitHub repo here: _
-* __
-
-## User Stories -
-
-_A User needs to be able to report an ICE raid which will include the location, date, time and a
+* _run $ npm install_
 
 ## Specs
-
-__
+_Site should have a non-functioning nav bar as part of the main component_
+_Nav bar will include four buttons: home, Notifications, messages and tweet_
+_Nav will have a non-functioning search input_
+_Site should have user profile component with an image, user name, and three non-working links: tweets, following, followers and a bio section_
+_Site should have a newsfeed section with non-function input field for creating new tweet/update_
+_Newsfeed section should include tweets_
+_Each tweet component should have image and text_
 
 ## Known Bugs
 
