@@ -13,8 +13,10 @@ _There will be minimal styling_
 
 ## Setup/Installation Requirements
 
-* _Download project from the GitHub repo here: _
+* _Download project from the GitHub repo here: https://github.com/reneesarley/Socia-Media-Clone.git_
 * _run $ npm install_
+* _run $ npm run start_
+* _open localhost:8080 in Chrome_
 
 ## Specs
 _Site should have a non-functioning nav bar as part of the main component_
@@ -37,6 +39,7 @@ _Please email with any questions._
 
 * _JavaScript_
 * _React_
+* _Bootstrap_
 
 ### License
 
