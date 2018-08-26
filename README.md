@@ -1,6 +1,6 @@
 # _Social Media Clone_
 
-#### _Application to practice placing and styling React Components , 8/26/18_
+#### _Application to practice placing React Components , 8/26/18_
 
 #### By _**Renee Sarley**_
 
@@ -19,13 +19,13 @@ _There will be minimal styling_
 * _open localhost:8080 in Chrome_
 
 ## Specs
-_Site should have a non-functioning nav bar as part of the main component_
-_Nav bar will include four buttons: home, Notifications, messages and tweet_
-_Nav will have a non-functioning search input_
-_Site should have user profile component with an image, user name, and three non-working links: tweets, following, followers and a bio section_
-_Site should have a newsfeed section with non-function input field for creating new tweet/update_
-_Newsfeed section should include tweets_
-_Each tweet component should have image and text_
+* _Site should have a non-functioning nav bar as part of the main component_
+* _Nav bar will include four buttons: home, Notifications, messages and tweet_
+* _Nav will have a non-functioning search input_
+* _Site should have user profile component with an image, user name, and three non-working links: tweets, following, followers and a bio section_
+* _Site should have a newsfeed section with non-function input field for creating new tweet/update_
+* _Newsfeed section should include tweets_
+* _Each tweet component should have image and text_
 
 ## Known Bugs
 
