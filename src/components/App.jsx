@@ -1,6 +1,7 @@
 import React from 'react';
 import Nav from './Nav';
 import Profile from './Profile'
+import Newsfeed from './Newsfeed'
 
 function App(){
   return (
@@ -8,6 +9,7 @@ function App(){
       <Nav/>
       <div className='row'>
         <Profile/>
+        <Newsfeed/>
       </div>
     </div>
   );
